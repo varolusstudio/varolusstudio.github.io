@@ -1,0 +1,3 @@
+# app-ads.txt for Varolus Studio (https://varolusstudio.github.io)
+# Replace this file's contents with the single line AdMob gives you, for example:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
